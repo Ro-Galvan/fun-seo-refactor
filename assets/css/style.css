@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* renoved the class from header */
+/* removed the class from header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,8 +23,8 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
-header nav {
+/* changed UL to NAV for line 27 and 36 */
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,12 +32,14 @@ header nav {
     font-size: 20px;
 }
 
-/* removed the UL elements and added an a tag */
-header nav a {
+/* removed the UL elements and added an a tag--also styled the hyperlinkswith hover */
+nav a {
     display: inline-block;
     margin-left: 25px;
 }
-
+ nav a:hover {
+    text-decoration: underline;
+ }
 a {
     color: #ffffff;
     text-decoration: none;
