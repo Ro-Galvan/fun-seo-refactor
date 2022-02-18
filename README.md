@@ -7,7 +7,7 @@
 
 # Description
 
-The existing code was refactored keeping the Scout Rule by adding comments and cleaning up duplicate syle code. Semantic tags were added while maintaing accessibility in mind. We made sure to fix any broken links and add descriptions to images as well. 
+The existing code was refactored keeping the Scout Rule by adding comments and cleaning up duplicate style code. Semantic tags were added while maintaing accessibility. I made sure to fix any broken links and add descriptions to images as well. Please refer to the comments in the  html and css files for further breakdown of changes made.  
 
 
 # Visual
