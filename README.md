@@ -1,6 +1,7 @@
 # fun-seo-refactor
 
 [link to live website](https://ro-galvan.github.io/fun-seo-refactor/)
+
 [link to GitHub repository](https://github.com/Ro-Galvan/fun-seo-refactor)
 
 
