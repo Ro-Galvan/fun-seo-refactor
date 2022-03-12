@@ -13,3 +13,7 @@ The existing code was refactored keeping the Scout Rule by adding comments and c
 # Visual
 
 ![Website Overview](./assets/images/website-screenshot.png)
+
+
+https://user-images.githubusercontent.com/97912154/158031209-24604d92-2564-41f0-b7e7-28f9fc92d42b.mp4
+
